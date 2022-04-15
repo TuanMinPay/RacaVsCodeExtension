@@ -1,10 +1,15 @@
 {
     "name": "racaholder",
-    "displayName": "racaholder",
-    "description": "Raca Holder",
+    "displayName": "Raca Price",
+    "description": "Raca to the mars!",
     "publisher": "RacaHolder",
+    "author": {
+        "name": "Ngô Văn Tuấn"
+    },
+    "license": "MIT",
+    "icon": "images/raca.png",
     "repository": "https://github.com/TuanMinPay/RacaVsCodeExtension.git",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "engines": {
         "vscode": "^1.66.0"
     },
@@ -36,5 +41,9 @@
     },
     "dependencies": {
         "axios": "^0.26.1"
-    }
+    },
+    "keywords": [
+        "raca",
+        "crypto"
+    ]
 }
