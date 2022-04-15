@@ -2,6 +2,7 @@
     "name": "racaholder",
     "displayName": "racaholder",
     "description": "Raca Holder",
+    "publisher": "RacaHolder",
     "repository": "https://github.com/TuanMinPay/RacaVsCodeExtension.git",
     "version": "0.0.1",
     "engines": {
